@@ -3,4 +3,26 @@
   <groupId>uvsq.21707863</groupId>
   <artifactId>pglp_3.3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  
+  <name>pglp_3.3</name>
+  <url>http://maven.apache.org</url>
+
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
+  <dependencies>
+  	<dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.13</version>
+    </dependency>
+  </dependencies>
+  
+  
+  
+  
 </project>
