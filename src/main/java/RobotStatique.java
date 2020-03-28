@@ -1,12 +1,12 @@
 
 
-public class RobotStatique{		// n'est pas un vrai Robot!
+public class RobotStatique extends Robot {
 	
 	
-	public void avance () {
-		 throw new UnsupportedOperationException () ;
-	
-}
+
+	public RobotStatique(Position position) {
+		super(position);
+	}
 
 
 }
