@@ -1,7 +1,6 @@
 
 public class Robot {
 
-	 private private
 	 private Position position ;
 	 private Direction direction ;
 	 
@@ -11,7 +10,5 @@ public class Robot {
 	    }
 	 
 	 public void tourne () {
-		 
 	 }
-	   
 }
